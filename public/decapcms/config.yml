@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: main
+  name: github
+  repo: ctweir/bio-hack-guide
 
 media_folder: 'src/assets/images'
 public_folder: '/_astro'
